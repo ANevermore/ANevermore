@@ -3,6 +3,7 @@
 <h4 align="center">My other hobbies also include composing music, and playing guitar</h3>
 
 - I've created a handfull of small projects and systems on roblox and am looking for work to add to my portfolio
+- I have experience for 3 years of scripting and want to now script for people and help develop games
 - you can always vontact me at nvermrdizzy on discord
 
 <h1 align="center">You can view all my videos on my Youtube channel</h1>
